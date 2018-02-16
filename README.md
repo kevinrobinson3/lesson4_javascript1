@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Kevin Robinson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project we learned how to calculate the expenses by displaying the total monthly expenses and the indivdual categories.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://kevinrobinson3.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (We learned how to declare, initialize, modify, and display variables.)
+2. (We learned how to associate an HTML element and define an define an event handler.)
+3. (We learned how to calculate monthly expenses.)
 
 
 
